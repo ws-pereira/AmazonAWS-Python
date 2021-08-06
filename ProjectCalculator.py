@@ -1,6 +1,6 @@
 # Programa simples - soma de dois números
 
-alue01 = input('Type number 01 - ')
+value01 = input('Type number 01 - ')
 value02 = input('Type number 02 - ')
 
 sum = float(value01) + float(value02)
